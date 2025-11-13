@@ -1,4 +1,4 @@
-# TP14 - Architecture (Nom du projet)
+# TP14 - GraphQl
 
 Objectifs
 ---------
@@ -13,7 +13,7 @@ Prérequis
 - Un éditeur ou IDE (VS Code, IntelliJ, etc.)
 - Java 21
 
-Installation (exemple générique)
+Installation
 -------------------------------
 1. Cloner le dépôt :
 ```bash
@@ -43,19 +43,6 @@ Captures d'écran
 <img width="1595" height="710" alt="tp14-8" src="https://github.com/user-attachments/assets/726f9a7e-7bc7-490b-8588-4c6bc714c533" />
 <img width="1594" height="579" alt="tp14-9" src="https://github.com/user-attachments/assets/7d54344a-463a-4cd1-bc37-c5bd65590894" />
 
-Notes et recommandations
------------------------
-- Remplacez les sections "Installation" et "Prérequis" par des instructions précises correspondant à la technologie réellement utilisée dans ce TP.
-- Si vous voulez que je mette à jour le README en ligne (remplacer le fichier existant) je peux ouvrir une PR ou pousser la modification directement — dites-moi comment vous préférez (PR ou commit direct).
-- Pensez à ajouter : licences, auteurs, et instructions de contribution si plusieurs personnes collaborent.
-
-Contribuer
-----------
-1. Forkez le dépôt
-2. Créez une branche feature/bugfix
-3. Faites vos modifications et committez
-4. Ouvrez une Pull Request avec une description claire
-
 Auteur
 ------
-RadouaneAitSaid123 (auteur du dépôt)
+Radouane AitSaid
